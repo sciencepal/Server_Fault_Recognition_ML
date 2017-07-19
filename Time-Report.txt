@@ -1,0 +1,568 @@
+At ['13:10']Remote DB is down
+At ['13:34']Remote DB Back Up and Running
+
+At ['13:36']Remote DB is down
+At ['14:0']Remote DB Back Up and Running
+
+At ['14:2']Remote DB is down
+At ['14:15']Remote DB Back Up and Running
+
+At ['14:17']Remote DB is down
+At ['14:41']Remote DB Back Up and Running
+
+At ['14:43']Remote DB is down
+At ['15:7']Remote DB Back Up and Running
+
+At ['15:9']Remote DB is down
+At ['15:33']Remote DB Back Up and Running
+
+At ['15:35']Remote DB is down
+At ['15:59']Remote DB Back Up and Running
+
+At ['16:1']Remote DB is down
+At ['16:25']Remote DB Back Up and Running
+
+At ['16:27']Remote DB is down
+At ['17:2']Remote DB Back Up and Running
+
+At ['17:4']Remote DB is down
+At ['17:28']Remote DB Back Up and Running
+
+At ['17:30']Remote DB is down
+At ['17:54']Remote DB Back Up and Running
+
+At ['17:56']Remote DB is down
+At ['18:20']Remote DB Back Up and Running
+
+At ['18:22']Remote DB is down
+At ['18:46']Remote DB Back Up and Running
+
+At ['18:48']Remote DB is down
+At ['19:12']Remote DB Back Up and Running
+
+At ['19:42']Remote DB is down
+At ['19:44']Remote DB Back Up and Running
+
+At ['19:52']Remote DB is down
+At ['19:53']Remote DB Back Up and Running
+
+At ['20:17']Remote DB is down
+At ['20:18']Remote DB Back Up and Running
+
+At ['20:34']Remote DB is down
+At ['20:35']Remote DB Back Up and Running
+
+At ['21:40']Remote App is down
+At ['21:41']Remote App Back Up and Running
+
+At ['21:54']Remote DB is down
+At ['21:55']Remote DB Back Up and Running
+
+At ['22:6']Remote DB is down
+At ['22:7']Remote DB Back Up and Running
+
+At ['23:12']Remote DB is down
+At ['23:13']Remote DB Back Up and Running
+
+At ['25:57']Remote DB is down
+At ['25:58']Remote DB Back Up and Running
+
+At ['27:52']Remote App is down
+At ['27:53']Remote App Back Up and Running
+
+At ['29:46']Remote App is down
+At ['29:47']Remote App Back Up and Running
+
+At ['29:58']Remote App is down
+At ['29:59']Remote App Back Up and Running
+
+At ['34:5']Remote DB is down
+At ['36:4']Remote DB Back Up and Running
+
+At ['37:55']Remote DB is down
+At ['37:56']Remote DB Back Up and Running
+
+At ['38:6']Remote DB is down
+At ['38:7']Remote DB Back Up and Running
+
+At ['38:8']Remote DB is down
+At ['38:9']Remote DB Back Up and Running
+
+At ['38:14']Remote DB is down
+At ['38:15']Remote DB Back Up and Running
+
+At ['38:23']Remote DB is down
+At ['38:24']Remote DB Back Up and Running
+
+At ['38:25']Remote DB is down
+At ['38:26']Remote DB Back Up and Running
+
+At ['38:30']Remote DB is down
+At ['38:31']Remote DB Back Up and Running
+
+At ['38:38']Remote DB is down
+At ['38:39']Remote DB Back Up and Running
+
+At ['38:48']Remote DB is down
+At ['38:50']Remote DB Back Up and Running
+
+At ['38:56']Remote DB is down
+At ['38:57']Remote DB Back Up and Running
+
+At ['39:0']Remote DB is down
+At ['39:1']Remote DB Back Up and Running
+
+At ['39:4']Remote DB is down
+At ['39:6']Remote DB Back Up and Running
+
+At ['39:8']Remote DB is down
+At ['39:10']Remote DB Back Up and Running
+
+At ['39:20']Remote DB is down
+At ['39:21']Remote DB Back Up and Running
+
+At ['39:26']Remote DB is down
+At ['39:27']Remote DB Back Up and Running
+
+At ['39:32']Remote DB is down
+At ['39:34']Remote DB Back Up and Running
+
+At ['39:43']Remote DB is down
+At ['39:44']Remote DB Back Up and Running
+
+At ['39:58']Remote App is down
+At ['39:59']Remote App Back Up and Running
+
+At ['41:10']Remote DB is down
+At ['41:11']Remote DB Back Up and Running
+
+At ['41:24']Remote DB is down
+At ['41:25']Remote DB Back Up and Running
+
+At ['41:29']Remote DB is down
+At ['41:30']Remote DB Back Up and Running
+
+At ['42:12']Remote DB is down
+At ['42:13']Remote DB Back Up and Running
+
+At ['43:34']Remote DB is down
+At ['43:36']Remote DB Back Up and Running
+
+At ['43:53']Remote DB is down
+At ['43:54']Remote DB Back Up and Running
+
+At ['43:58']Remote DB is down
+At ['43:59']Remote DB Back Up and Running
+
+At ['44:38']Remote DB is down
+At ['44:39']Remote DB Back Up and Running
+
+At ['44:42']Remote DB is down
+At ['44:43']Remote DB Back Up and Running
+
+At ['44:45']Remote DB is down
+At ['44:46']Remote DB Back Up and Running
+
+At ['45:8']Remote DB is down
+At ['45:9']Remote DB Back Up and Running
+
+At ['46:35']Remote App is down
+At ['46:36']Remote App Back Up and Running
+
+At ['47:17']Remote DB is down
+At ['47:18']Remote DB Back Up and Running
+
+At ['47:44']Remote DB is down
+At ['47:45']Remote DB Back Up and Running
+
+At ['49:5']Remote App is down
+At ['49:6']Remote App Back Up and Running
+
+At ['49:48']Remote DB is down
+At ['49:49']Remote DB Back Up and Running
+
+At ['49:51']Remote DB is down
+At ['49:52']Remote DB Back Up and Running
+
+At ['50:35']Remote App is down
+At ['50:36']Remote App Back Up and Running
+
+At ['51:18']Remote DB is down
+At ['51:19']Remote DB Back Up and Running
+
+At ['51:24']Remote DB is down
+At ['51:25']Remote DB Back Up and Running
+
+At ['51:52']Remote App is down
+At ['51:53']Remote App Back Up and Running
+
+At ['54:40']Remote App is down
+At ['54:41']Remote App Back Up and Running
+
+At ['58:4']Remote DB is down
+At ['60:6']Remote DB Back Up and Running
+
+At ['61:55']Remote DB is down
+At ['61:56']Remote DB Back Up and Running
+
+At ['62:5']Remote DB is down
+At ['62:6']Remote DB Back Up and Running
+
+At ['62:7']Remote DB is down
+At ['62:8']Remote DB Back Up and Running
+
+At ['62:10']Remote DB is down
+At ['62:11']Remote DB Back Up and Running
+
+At ['62:21']Remote DB is down
+At ['62:22']Remote DB Back Up and Running
+
+At ['62:26']Remote DB is down
+At ['62:27']Remote DB Back Up and Running
+
+At ['62:30']Remote DB is down
+At ['62:31']Remote DB Back Up and Running
+
+At ['62:39']Remote DB is down
+At ['62:40']Remote DB Back Up and Running
+
+At ['62:58']Remote DB is down
+At ['62:59']Remote DB Back Up and Running
+
+At ['63:5']Remote DB is down
+At ['63:6']Remote DB Back Up and Running
+
+At ['63:7']Remote DB is down
+At ['63:8']Remote DB Back Up and Running
+
+At ['63:10']Remote DB is down
+At ['63:11']Remote DB Back Up and Running
+
+At ['63:18']Remote DB is down
+At ['63:19']Remote DB Back Up and Running
+
+At ['63:54']Remote DB is down
+At ['63:55']Remote DB Back Up and Running
+
+At ['64:0']Remote DB is down
+At ['64:1']Remote DB Back Up and Running
+
+At ['67:35']Remote DB is down
+At ['67:36']Remote DB Back Up and Running
+
+At ['67:57']Remote DB is down
+At ['67:58']Remote DB Back Up and Running
+
+At ['68:1']Remote DB is down
+At ['68:2']Remote DB Back Up and Running
+
+At ['68:6']Remote DB is down
+At ['68:7']Remote DB Back Up and Running
+
+At ['68:31']Remote DB is down
+At ['68:32']Remote DB Back Up and Running
+
+At ['69:3']Remote DB is down
+At ['69:4']Remote DB Back Up and Running
+
+At ['69:46']Remote DB is down
+At ['69:47']Remote DB Back Up and Running
+
+At ['71:31']Remote DB is down
+At ['71:32']Remote DB Back Up and Running
+
+At ['75:32']Remote App is down
+At ['75:33']Remote App Back Up and Running
+
+At ['80:43']Remote DB is down
+At ['80:44']Remote DB Back Up and Running
+
+At ['80:59']Remote DB is down
+At ['81:0']Remote DB Back Up and Running
+
+At ['81:8']Remote DB is down
+At ['81:9']Remote DB Back Up and Running
+
+At ['81:13']Remote DB is down
+At ['81:15']Remote DB Back Up and Running
+
+At ['81:17']Remote DB is down
+At ['81:18']Remote DB Back Up and Running
+
+At ['81:21']Remote DB is down
+At ['81:22']Remote DB Back Up and Running
+
+At ['81:23']Remote DB is down
+At ['81:24']Remote DB Back Up and Running
+
+At ['81:31']Remote DB is down
+At ['81:33']Remote DB Back Up and Running
+
+At ['81:35']Remote DB is down
+At ['81:36']Remote DB Back Up and Running
+
+At ['81:42']Remote DB is down
+At ['81:43']Remote DB Back Up and Running
+
+At ['81:49']Remote DB is down
+At ['81:50']Remote DB Back Up and Running
+
+At ['82:4']Remote DB is down
+At ['82:5']Remote DB Back Up and Running
+
+At ['88:18']Remote DB is down
+At ['88:19']Remote DB Back Up and Running
+
+At ['88:50']Remote App is down
+At ['88:51']Remote App Back Up and Running
+
+At ['89:31']Remote DB is down
+At ['89:32']Remote DB Back Up and Running
+
+At ['91:1']Remote DB is down
+At ['91:2']Remote DB Back Up and Running
+
+At ['97:17']Remote App is down
+At ['97:18']Remote App Back Up and Running
+
+At ['97:20']Remote App is down
+At ['97:21']Remote App Back Up and Running
+
+At ['97:22']Remote App is down
+At ['97:23']Remote App Back Up and Running
+
+At ['97:27']Remote App is down
+At ['97:28']Remote App Back Up and Running
+
+At ['97:31']Remote App is down
+At ['97:32']Remote App Back Up and Running
+
+At ['97:39']Remote App is down
+At ['97:40']Remote App Back Up and Running
+
+At ['97:54']Remote App is down
+At ['97:55']Remote App Back Up and Running
+
+At ['98:31']Remote DB is down
+At ['99:35']Remote DB Back Up and Running
+
+At ['99:36']Remote DB is down
+At ['100:32']Remote DB Back Up and Running
+
+At ['101:6']Remote App is down
+At ['101:7']Remote App Back Up and Running
+
+At ['101:8']Remote App is down
+At ['101:9']Remote App Back Up and Running
+
+At ['101:11']Remote App is down
+At ['101:12']Remote App Back Up and Running
+
+At ['101:16']Remote App is down
+At ['101:17']Remote App Back Up and Running
+
+At ['101:26']Remote App is down
+At ['101:27']Remote App Back Up and Running
+
+At ['101:30']Remote App is down
+At ['101:31']Remote App Back Up and Running
+
+At ['102:6']Remote App is down
+At ['102:8']Remote App Back Up and Running
+
+At ['102:15']Remote App is down
+At ['102:16']Remote App Back Up and Running
+
+At ['102:20']Remote DB is down
+At ['102:21']Remote DB Back Up and Running
+
+At ['102:23']Remote App is down
+At ['102:24']Remote App Back Up and Running
+
+At ['102:30']Remote DB is down
+At ['102:31']Remote DB Back Up and Running
+
+At ['102:36']Remote App is down
+At ['102:37']Remote App Back Up and Running
+
+At ['102:39']Remote App is down
+At ['102:40']Remote App Back Up and Running
+
+At ['102:41']Remote App is down
+At ['102:42']Remote App Back Up and Running
+
+At ['102:43']Remote DB is down
+At ['102:44']Remote DB Back Up and Running
+
+At ['102:46']Remote DB is down
+At ['102:47']Remote DB Back Up and Running
+
+At ['102:51']Remote App is down
+At ['102:52']Remote App Back Up and Running
+
+At ['103:19']Remote App is down
+At ['103:20']Remote App Back Up and Running
+
+At ['103:25']Remote DB is down
+At ['103:26']Remote DB Back Up and Running
+
+At ['103:29']Remote DB is down
+At ['103:30']Remote DB Back Up and Running
+
+At ['103:32']Remote DB is down
+At ['103:33']Remote DB Back Up and Running
+
+At ['103:48']Remote App is down
+At ['103:49']Remote App Back Up and Running
+
+At ['104:5']Remote App is down
+At ['104:6']Remote App Back Up and Running
+
+At ['104:7']Remote DB is down
+At ['104:8']Remote DB Back Up and Running
+
+At ['104:35']Remote App is down
+At ['104:36']Remote App Back Up and Running
+
+At ['105:0']Remote DB is down
+At ['105:24']Remote DB Back Up and Running
+
+At ['105:26']Remote DB is down
+At ['105:50']Remote DB Back Up and Running
+
+At ['105:52']Remote DB is down
+At ['106:16']Remote DB Back Up and Running
+
+At ['106:18']Remote DB is down
+At ['106:42']Remote DB Back Up and Running
+
+At ['106:44']Remote DB is down
+At ['107:8']Remote DB Back Up and Running
+
+At ['107:10']Remote DB is down
+At ['107:34']Remote DB Back Up and Running
+
+At ['107:36']Remote DB is down
+At ['108:0']Remote DB Back Up and Running
+
+At ['108:2']Remote DB is down
+At ['108:26']Remote DB Back Up and Running
+
+At ['108:28']Remote DB is down
+At ['108:52']Remote DB Back Up and Running
+
+At ['108:54']Remote DB is down
+At ['109:18']Remote DB Back Up and Running
+
+At ['109:20']Remote DB is down
+At ['109:44']Remote DB Back Up and Running
+
+At ['109:46']Remote DB is down
+At ['110:10']Remote DB Back Up and Running
+
+At ['110:12']Remote DB is down
+At ['110:36']Remote DB Back Up and Running
+
+At ['110:38']Remote DB is down
+At ['111:2']Remote DB Back Up and Running
+
+At ['111:4']Remote DB is down
+At ['111:28']Remote DB Back Up and Running
+
+At ['111:30']Remote DB is down
+At ['111:54']Remote DB Back Up and Running
+
+At ['111:56']Remote DB is down
+At ['112:20']Remote DB Back Up and Running
+
+At ['112:22']Remote DB is down
+At ['112:46']Remote DB Back Up and Running
+
+At ['112:48']Remote DB is down
+At ['113:12']Remote DB Back Up and Running
+
+At ['113:14']Remote DB is down
+At ['113:38']Remote DB Back Up and Running
+
+At ['113:40']Remote DB is down
+At ['114:4']Remote DB Back Up and Running
+
+At ['114:6']Remote DB is down
+At ['114:30']Remote DB Back Up and Running
+
+At ['114:32']Remote DB is down
+At ['114:56']Remote DB Back Up and Running
+
+At ['114:58']Remote DB is down
+At ['115:22']Remote DB Back Up and Running
+
+At ['115:24']Remote DB is down
+At ['115:48']Remote DB Back Up and Running
+
+At ['115:50']Remote DB is down
+At ['116:14']Remote DB Back Up and Running
+
+At ['116:16']Remote DB is down
+At ['116:40']Remote DB Back Up and Running
+
+At ['116:42']Remote DB is down
+At ['117:6']Remote DB Back Up and Running
+
+At ['117:8']Remote DB is down
+At ['117:32']Remote DB Back Up and Running
+
+At ['117:34']Remote DB is down
+At ['117:58']Remote DB Back Up and Running
+
+At ['118:0']Remote DB is down
+At ['118:24']Remote DB Back Up and Running
+
+At ['118:26']Remote DB is down
+At ['118:50']Remote DB Back Up and Running
+
+At ['118:52']Remote DB is down
+At ['119:16']Remote DB Back Up and Running
+
+At ['119:18']Remote DB is down
+At ['119:42']Remote DB Back Up and Running
+
+At ['119:44']Remote DB is down
+At ['120:8']Remote DB Back Up and Running
+
+At ['120:24']Remote App is down
+At ['120:25']Remote App Back Up and Running
+
+At ['120:48']Remote App is down
+At ['120:49']Remote App Back Up and Running
+
+At ['120:57']Remote App is down
+At ['120:58']Remote App Back Up and Running
+
+At ['121:22']Remote App is down
+At ['121:23']Remote App Back Up and Running
+
+At ['121:45']Remote App is down
+At ['121:46']Remote App Back Up and Running
+
+At ['121:53']Remote App is down
+At ['121:54']Remote App Back Up and Running
+
+At ['122:17']Remote DB is down
+At ['122:41']Remote DB Back Up and Running
+
+At ['122:43']Remote DB is down
+At ['123:7']Remote DB Back Up and Running
+
+At ['123:9']Remote DB is down
+At ['123:33']Remote DB Back Up and Running
+
+At ['123:35']Remote DB is down
+At ['123:59']Remote DB Back Up and Running
+
+At ['124:1']Remote DB is down
+At ['124:25']Remote DB Back Up and Running
+
+At ['124:27']Remote DB is down
+At ['124:51']Remote DB Back Up and Running
+
+At ['124:53']Remote DB is down
